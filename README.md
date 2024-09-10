@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/images/image1.jpg" alt="Image 1" width="320" height="220">
-  <img src="assets/images/image2.jpg" alt="Image 2" width="320" height="220">
-    <img src="assets/images/image3.jpg" alt="Image 2" width="320" height="220">
+  <img src="assets/images/image1.jpg" alt="Image 1" width="420" height="200">
+  <img src="assets/images/image2.jpg" alt="Image 2" width="420" height="200">
+    <img src="assets/images/image3.jpg" alt="Image 2" width="420" height="200">
 </div>
